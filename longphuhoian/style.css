@@ -25,3 +25,13 @@ Template: astra
 .elementor-cta {
   text-decoration: none !important;
 }
+.elementor-post__card a {
+  text-decoration: none !important;
+}
+.elementor-post__card h3 > a {
+  font-size: 20px;
+  line-height: 16px !important;
+}
+.elementor-cta__button {
+  text-decoration: none !important;
+}
